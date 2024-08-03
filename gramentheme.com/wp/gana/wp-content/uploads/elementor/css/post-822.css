@@ -1,0 +1,172 @@
+.elementor-822 .elementor-element.elementor-element-dd2e369>.elementor-container {
+    max-width: 1400px;
+}
+
+.elementor-822 .elementor-element.elementor-element-dd2e369 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 100px 0px 100px 0px;
+}
+
+.elementor-822 .elementor-element.elementor-element-dd2e369>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-822 .elementor-element.elementor-element-dd81b93:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-822 .elementor-element.elementor-element-dd81b93>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    /* background-image: url("../../2023/10/bgblackred.jpg"); */
+    background-color:#EDEFE4;
+    color:#000;
+    background-position: left 80%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.elementor-822 .elementor-element.elementor-element-dd81b93>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 60px 60px 60px 60px;
+}
+
+.elementor-822 .elementor-element.elementor-element-dd81b93>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-822 .elementor-element.elementor-element-44c3563 {
+    text-align: left;
+}
+
+.elementor-822 .elementor-element.elementor-element-bdd5b63 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child) {
+    padding-bottom: calc(13px/2);
+}
+
+.elementor-822 .elementor-element.elementor-element-bdd5b63 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child) {
+    margin-top: calc(13px/2);
+}
+
+.elementor-822 .elementor-element.elementor-element-bdd5b63 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item {
+    margin-right: calc(13px/2);
+    margin-left: calc(13px/2);
+}
+
+.elementor-822 .elementor-element.elementor-element-bdd5b63 .elementor-icon-list-items.elementor-inline-items {
+    margin-right: calc(-13px/2);
+    margin-left: calc(-13px/2);
+}
+
+body.rtl .elementor-822 .elementor-element.elementor-element-bdd5b63 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+    left: calc(-13px/2);
+}
+
+body:not(.rtl) .elementor-822 .elementor-element.elementor-element-bdd5b63 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+    right: calc(-13px/2);
+}
+
+.elementor-822 .elementor-element.elementor-element-bdd5b63 .elementor-icon-list-icon i {
+    transition: color 0.3s;
+}
+
+.elementor-822 .elementor-element.elementor-element-bdd5b63 .elementor-icon-list-icon svg {
+    transition: fill 0.3s;
+}
+
+.elementor-822 .elementor-element.elementor-element-bdd5b63 {
+    --e-icon-list-icon-size: 43px;
+    --icon-vertical-offset: 0px;
+}
+
+.elementor-822 .elementor-element.elementor-element-bdd5b63 .elementor-icon-list-text {
+    color: #000;
+    transition: color 0.3s;
+}
+
+.elementor-bc-flex-widget .elementor-822 .elementor-element.elementor-element-f600dec.elementor-column .elementor-widget-wrap {
+    align-items: center;
+}
+
+.elementor-822 .elementor-element.elementor-element-f600dec.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-822 .elementor-element.elementor-element-f600dec:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-822 .elementor-element.elementor-element-f600dec>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #163020;
+    
+}
+.elementor-widget-wrap{
+    background: #172F28;
+    backdrop-filter: blur( 105px );
+    -webkit-backdrop-filter: blur( 10.5px );
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+
+.elementor-822 .elementor-element.elementor-element-f600dec>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-822 .elementor-element.elementor-element-f600dec>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-822 .elementor-element.elementor-element-a4f9655 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+    --padding-block-start: 0px;
+    --padding-block-end: 0px;
+    --padding-inline-start: 0px;
+    --padding-inline-end: 0px;
+}
+
+.elementor-822 .elementor-element.elementor-element-b3dce00 iframe {
+    height: 500px;
+}
+
+@media(max-width:1024px) and (min-width:768px) {
+    .elementor-822 .elementor-element.elementor-element-dd81b93 {
+        width: 100%;
+    }
+
+    .elementor-822 .elementor-element.elementor-element-f600dec {
+        width: 100%;
+    }
+}
+
+@media(max-width:1024px) {
+    .elementor-822 .elementor-element.elementor-element-dd81b93>.elementor-element-populated {
+        margin: 0px 10px 0px 10px;
+        --e-column-margin-right: 10px;
+        --e-column-margin-left: 10px;
+        padding: 40px 40px 40px 40px;
+    }
+
+    .elementor-822 .elementor-element.elementor-element-f600dec>.elementor-element-populated {
+        margin: 0px 10px 0px 10px;
+        --e-column-margin-right: 10px;
+        --e-column-margin-left: 10px;
+        padding: 0px 0px 0px 0px;
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-822 .elementor-element.elementor-element-dd81b93>.elementor-element-populated {
+        margin: 0px  10px !important;
+        --e-column-margin-right: 10px;
+        --e-column-margin-left: 10px;
+        padding: 20px 20px 20px 20px;
+    }
+
+    .elementor-822 .elementor-element.elementor-element-f600dec>.elementor-element-populated {
+        margin: 0px 10px !important;
+        --e-column-margin-right: 10px;
+        --e-column-margin-left: 10px;
+    }
+
+    .elementor-822 .elementor-element.elementor-element-b3dce00 iframe {
+        margin: 0px 10px  !important;
+        height: 350px;
+    }
+}

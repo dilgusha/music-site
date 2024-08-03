@@ -1,0 +1,281 @@
+.audio-chart-list-area .banner-audio-list {
+    border-radius: 20px;
+}
+.body-light {
+    background: #fff;
+	border-color: #d9d9d9 !important;
+}
+
+.body-light .main-menu-sidebar-nav .responsive-mobile-menu .logo-wrapper img,
+.body-light .navbar-area.navigation-style-01 .custom-container .logo-wrapper img {
+    filter: brightness(0);
+}
+.body-light .nav-left-search input {
+    background: rgb(191 191 191 / 15%);
+}
+.body-light .single-audio-list-inner:hover .media .media-body h5,
+.body-light .theme-section-title.white .title,
+.body-light .banner-area-1 ul li,
+.body-light .audio-albums-two .thumb .cat,
+.body-light .call-to-action-area .subtitle span,
+.body-light .call-to-action-area .title,
+.body-light .breadcrumb-wrap .page-list li,
+.body-light .breadcrumb-wrap .page-title,
+.body-light .elementor-37 .elementor-element.elementor-element-b9fb181 > .elementor-widget-container,
+.body-light .banner-area-2 .btn,
+.body-light .blog-main-item-01 .blog-bottom .btn,
+.body-light .banner-area-2 h2 {
+    color: #fff;
+}
+.body-light .theme-section-title .subtitle span {
+    background: #ffffff !important;
+}
+
+.body-light .single-audio-grid-inner .details h5,
+.body-light .blog-details-footer .left .title,
+.body-light .blog-details-footer .right .title,
+.body-light .blog-single-content-wrap p,
+.body-light .blog-main-item-01 .thumbnail-wrap .blog-cat-list a,
+.body-light .single-accordion-inner.style-2 .accordion-item .accordion-button.collapsed:after,
+.body-light .single-accordion-inner .accordion-item .accordion-button.collapsed,
+.body-light .testimonial-slider-one-area .single-testimonial-inner .media-body h5,
+.body-light .single-audio-list-inner .media .media-body h5,
+.body-light .audio-chart-list-area .chart-title h4,
+.body-light .comment-form .logged-in-as,
+.body-light .blog-single-content-wrap ul li p,
+.body-light .elementor-widget-container,
+.body-light .widget_gana_category ul li a,
+.body-light .single-blog-list-3 .read-more,
+.body-light .theme-section-title.white .subtitle span,
+.body-light .theme-section-title .title {
+    color: #111;
+}
+.body-light .single-audio-creator-inner .details {
+    background: #111;
+}
+
+.body-light .navbar.navbar-area.navbar-expand-lg.navigation-style-01.navbar-default .custom-container .navbar-collapse .navbar-nav li.current-menu-item a,
+.body-light .navbar.navbar-area.navbar-expand-lg.navigation-style-01.navbar-default .custom-container .navbar-collapse .navbar-nav li a:hover,
+.body-light .navbar.navbar-area.navbar-expand-lg.navigation-style-01.navbar-default .custom-container .navbar-collapse .navbar-nav li.current-menu-parent a,
+.body-light .navbar.navbar-area.navbar-expand-lg.navigation-style-01.navbar-default .custom-container .navbar-collapse .body-light .navbar-nav li.current-menu-parent a,
+.body-light .navbar.navbar-area.navbar-expand-lg.navigation-style-01.navbar-default .custom-container .navbar-collapse .body-light .navbar-nav li.current-menu-item a,
+.body-light .navbar.navbar-area.navbar-expand-lg.navigation-style-01.navbar-default .custom-container .navbar-collapse .body-light .navbar-nav li a:hover,
+.body-light .banner-audio-list li:hover .media-body h5 a {
+    color: #304D30;
+}
+.body-light .banner-audio-list li:hover .audioplayer .audioplayer-playpause a {
+    border-left-color: var(--main-color-one);
+}
+
+.body-light .testimonial-slider-one-area {
+    border: 1px solid #d9d9d9;
+}
+
+.body-light .elementor-938 .elementor-element.elementor-element-b5ba3b7 > .elementor-widget-container,
+.body-light .comment-form .form-group .form-control,
+.body-light .widget_search .search-form .form-group .form-control,
+.body-light .wp-block-tag-cloud a,
+.body-light .elementor-806 .elementor-element.elementor-element-a160e3c .single-accordion-inner .accordion-item,
+.body-light .single-event-inner .time,
+.body-light .navbar-3-area .header-3-search input,
+.body-light .product-trending-nav li button,
+.body-light .audio-category-list li a {
+    border: 1px solid #dfdfdf;
+    background: rgb(0,0,0);
+background: linear-gradient(90deg, rgba(0,0,0,1) 2%, rgba(22,48,32,1) 43%, rgba(48,77,48,1) 100%);
+    color: #fff;
+}
+
+.body-light .blog-details-page-quote .elementor-widget-container,
+.body-light .single-accordion-inner .accordion-item,
+.body-light .product-trending-nav li button,
+.body-light .trending-area-nav-albums,
+.body-light .product-trending-nav li button {
+    border: 1px solid #dfdfdf !important;
+    background: transparent !important;
+    color: #111 !important;
+}
+
+.body-light .product-trending-nav li button:hover,
+.body-light .product-trending-nav li button.active,
+.body-light .product-trending-nav li button.active {
+    color: #fff !important;
+}
+
+.body-light .counter-area .counter__single:hover .title-xl span,
+.body-light .product-trending-nav li button:hover,
+.body-light .audio-category-list li a:hover {
+    color: #fff;
+}
+
+
+.body-light .team-details-page h2,
+.body-light .team-details-page h3,
+.body-light .team-details-page h4,
+.body-light .team-details-page h6,
+.body-light .team-details-page p,
+.body-light .elementor-742 .elementor-element.elementor-element-7eff551 .elementor-heading-title,
+.body-light .elementor-806 .elementor-element.elementor-element-6e7750b .elementor-heading-title,
+.body-light .elementor-806 .elementor-element.elementor-element-7d4a008 .elementor-heading-title,
+.body-light .elementor-1690 .elementor-element.elementor-element-3e012c0 .elementor-heading-title,
+.body-light .elementor-1690 .elementor-element.elementor-element-4520284 .elementor-image-box-title {
+    color: #8c8787 !important;
+}
+
+.body-light .team-details-page .social-media li a {
+    background: #cfcfcf;
+}
+.body-light .team-details-page .single-audio-creator-inner .details p,
+.body-light .team-details-page .single-audio-creator-inner .details h4 {
+	color: #fff !important;
+}
+
+.body-light aside {
+    background: #fff;
+    border: 1px solid #d9d9d9;
+}
+.body-light .single-audio-grid-inner,
+.body-light .blog-main-item-01 .thumbnail-wrap {
+    border: 1px solid #d9d9d9;
+}
+
+.body-light .single-audio-grid-inner .thumb {
+    background: #d9d9d9;
+}
+
+.body-light .single-audio-grid-inner,
+.body-light .navbar-3-area,
+.body-light .contact-page-form,
+.body-light .banner-audio-list,
+.body-light .navbar.navbar-area.navbar-expand-lg.navigation-style-01.navbar-default, 
+.body-light .navbar.navbar-area.navbar-expand-lg.navigation-style-01.navbar-default .custom-container {
+    background: #fff;
+}
+
+.body-light .single-ticket-inner,
+.body-light .single-audio-grid-inner .details .audioplayer-playpause {
+    background: #fff !important;
+}
+
+.body-light .bannerfull-slider-audio .single-audio-list-inner:hover .media .media-body h5,
+.body-light .main-wrap-page-two .testimonial-slider-one-area .theme-section-title .title,
+.body-light .logo-wrapper .site-title,
+.body-light aside h2,
+.body-light aside h3,
+.body-light aside h4,
+.body-light aside h5,
+.body-light aside h6,
+.body-light .blog-main-item-01 .content p,
+.body-light .post-meta li span,
+.body-light .blog-main-item-01 .content .title,
+.body-light .single-event-inner:hover .location, 
+.body-light .single-event-inner:hover .song_name,
+.body-light .single-event-inner:hover .title,
+.body-light .counter-area .title-xl span,
+.body-light .banner-audio-list h4,
+.body-light .single-blog-list-3 .details h5,
+.body-light .theme-section-title .subtitle span {
+	color: #111;
+}
+
+.body-light .testimonial-slider-one-area,
+.body-light .single-audio-list-inner {
+    background: transparent;
+}
+
+.body-light .single-pricing-inner,
+.single-pricing-inner .price-header,
+.body-light .single-audio-grid-inner .details .download-area .download,
+.body-light .single-audio-grid-inner .details .tag-inner span,
+.body-light .single-audio-grid-inner .details .download-area,
+.body-light .dark-area .switch .slider,
+.body-light .home-4-chart,
+.body-light .elementor-1690 .elementor-element.elementor-element-4520284 > .elementor-widget-container,
+.body-light .details-page-info-inner ul li + li,
+.body-light .details-page-info-inner,
+.body-light .single-post-navigation,
+.body-light .blog-details-footer,
+.body-light .theme-recent-post-wrap li.theme-recent-post-item + li,
+.body-light .single-event-inner .right_arrow,
+.body-light .single-ticket-inner,
+.body-light .single-ticket-inner .title,
+.body-light .event-area,
+.body-light .single-event-inner,
+.body-light .counter-area .counter__single,
+.body-light .elementor-43 .elementor-element.elementor-element-21611c5 > .elementor-widget-container,
+.body-light .banner-audio-list li,
+.body-light .banner-audio-list,
+.body-light .elementor-1845 .elementor-element.elementor-element-158f87d > .elementor-widget-container,
+.body-light .elementor-624 .elementor-element.elementor-element-b2f31e1 > .elementor-widget-container,
+.body-light .testimonial-slider-one-area .theme-section-title,
+.body-light .audio-chart-list-area .chart-title .btn,
+.body-light .audio-chart-list-area .banner-audio-list li,
+.body-light .audio-chart-list-area .chart-title,
+.body-light .audio-chart-list-area,
+.body-light .navbar-area.navbar-style-02 .navbar-collapse,
+.body-light .navbar-area.navbar-style-02,
+.body-light .single-blog-list-3 .read-more,
+.body-light .single-blog-list-3,
+.body-light .elementor-1508 .elementor-element.elementor-element-21611c5 > .elementor-widget-container,
+.body-light .navbar-3-area,
+.body-light .main-menu-sidebar-wrap,
+.body-light .single-audio-list-inner .audio-list-wrap .audioplayer:not(.audioplayer-playing) .audioplayer-playpause,
+.body-light .single-audio-list-inner .download-area .download,
+.body-light .single-audio-list-inner .download-area,
+.body-light .single-audio-list-inner .media {
+    border-color: #d9d9d9;
+}
+
+.body-light .dark-area .switch .slider,
+.body-light .blog-main-item-01 .thumbnail-wrap .blog-cat-list a,
+.body-light .audioplayer:not(.audioplayer-playing) .audioplayer-playpause,
+.body-light .single-audio-list-inner .audio-list-wrap .audioplayer-volume-adjust div div,
+.body-light .single-audio-list-inner .audio-list-wrap .audioplayer .audioplayer-bar::before {
+    background-color: #d9d9d9;
+}
+.body-light .banner-area-1.bg-cover {
+    background-size: 102% 102% !important;
+}
+
+.body-light .single-event-inner .right_arrow {
+	color: #d9d9d9;
+}
+
+.body-light .audio-chart-list-area .banner-audio-list li:nth-child(9),
+.body-light .single-input-inner.style-border-bottom textarea,
+.body-light .single-input-inner.style-border-bottom .single-select,
+.body-light .single-input-inner.style-border-bottom input,
+.body-light .single-ticket-inner .btn {
+	border-color: #d9d9d9 !important;
+}
+
+.body-light .banner-bottom-fixed-audio .single-audio-list-inner .audio-list-wrap .audioplayer:not(.audioplayer-playing) .audioplayer-playpause a {
+    border-left: 12px solid #5e5e5e !important;
+}
+
+.body-light .site-logo img {
+    filter: brightness(0);
+}
+
+.body-light .bannerfull-slider-two-area .navbar-area.navbar-style-02 {
+    border-bottom: 1px solid #d9d9d9 !important;
+}
+.body-light .planning-section-title-left span {
+    -webkit-text-stroke: 1px #111;
+}
+.body-light .bannerfull-slider-one-area .site-logo img {
+    filter: brightness(1);
+}
+.body-light .bannerfull-slider-audio .single-audio-list-inner:after {
+    background: #fff;
+}
+.body-light .single-audio-list-inner .audio-list-wrap .audioplayer:not(.audioplayer-playing) .audioplayer-playpause {
+    background: transparent;
+}
+.body-light .bannerfull-slider-audio .single-audio-list-inner .audio-list-wrap .audioplayer .audioplayer-bar::before {
+    background-color: #d9d9d9;
+}
+.body-light  .bannerfull-slider-audio .prev-arrow,
+.body-light  .bannerfull-slider-audio .next-arrow {
+    color: #fff;
+}
